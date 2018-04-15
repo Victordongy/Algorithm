@@ -1,0 +1,30 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(57): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(57): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(175): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(175): note: or       'size'
+c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(176): error C2872: 'size': ambiguous symbol
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): note: could be 'int size'
+  c:\users\user\documents\algorithm\np complete problem\consoleapplication1\consoleapplication1\consoleapplication1.cpp(176): note: or       'size'
